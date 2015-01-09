@@ -1,5 +1,5 @@
 # 2014-Summary
-Review 2014 And For 2015[郭静](http://weibo.com/gjican)   
+Review 2014 And For 2015([郭静](http://weibo.com/gjican))
 
 #### 技术上成长:  
 1.对View自定义绘制有了一定的了解，不会在处理特效上面毫无头绪了，参与了浏览器中多窗口的整体设计.  
